@@ -16,7 +16,7 @@
 
 The basis of the smart contract creates addresses, sets `uint` values so any value can be send througha  transaction and some functions to create smooth transactions. 
 
-1![contract-snippet](Execution_Results/contractSnippet.png)
+![contract-snippet](Execution_Results/contractSnippet.png)
 
 
 #### Excecution Results
